@@ -44,3 +44,14 @@ public class App {
 		System.out.println(myAge);
 		System.out.println(FriendsEachYear);
 		
+		//PART THREE
+		char middleInitial= 'A';
+		String firstName = "Ash";
+		String lastName = "Sanchez"; 
+		String fullName = firstName + " " + middleInitial + " " + lastName; //concatenation
+		
+		System.out.println(middleInitial);
+		System.out.println(firstName);
+		System.out.println(lastName);
+		System.out.println(fullName);
+		
