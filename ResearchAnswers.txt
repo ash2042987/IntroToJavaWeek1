@@ -1,0 +1,26 @@
+Instructions: In however many words necessary, write a thorough essay response to each of the below prompts. Be sure to include at least 5 references for this assignment. Do not copy and paste text from the internet or any other source; use the information you find in your research, summarize, in your own words, the concepts. Plagiarism will result in a zero for the assignment as well as disciplinary actions. Push this document to your GitHub repository for this week. Add the URL for this week’s repository to this document where instructed and submit this document to your instructor when complete.
+What is git? Why is it useful? What is the git workflow?
+
+Git is a free and open source which developers can work on their projects no matter how big or small. Git is useful because it lets you share your code or codes with others online as well. Git is a nice backup if you ever lose your code or want to save it for future references. Git workflow is being able to make changes, taking a snapshot of those changes, and pushing the changes until it eventually goes to the master branch.
+What are the 8 primitive data types in Java? What makes them each unique? What values can they hold?
+
+The 8 primitive data types in Java are;
+1.Int-is a integer. 
+2.Double-is a floating point of ranges of values.
+3.Float-is single precision like a decimal, shouldn’t be used as a precise value.
+4.Long-is somewhat like an integer but the number is definitely higher.
+5.Short-is somewhat like an integer as well, but lower.
+6.Byte-data type is 8 bits.
+7.Char-a unicode character a.k.a “single character.”
+8.Boolean-determines true or false.
+
+
+What is your favorite thing you learned this week?
+My favorite thing I learned this week was the Command Line because it can access all your files and create repositories which I found quite fun.
+
+References:
+https://git-scm.com/
+http://blog.robertelder.org/what-is-git/
+https://www.atlassian.com/git/tutorials/comparing-workflows
+https://cs.fit.edu/~ryan/java/language/java-data.html
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
